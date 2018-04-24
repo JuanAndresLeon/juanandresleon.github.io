@@ -1,3 +1,0 @@
-# juanandresleon.github.io
-
-Under construction...
