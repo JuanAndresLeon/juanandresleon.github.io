@@ -1,3 +1,3 @@
 # juanandresleon.github.io
 
-Under construction...
+GitHub.io page hosting my Resume
