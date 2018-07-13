@@ -29,6 +29,7 @@ p {
     font-family: 'Open Sans';
     color: #333;
     text-align: justify;
+    opacity: 0.75;
 }
 footer {
     border-top: 1px solid #d5d5d5;
